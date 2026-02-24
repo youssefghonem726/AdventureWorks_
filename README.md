@@ -133,19 +133,19 @@ These visuals extend analysis beyond descriptive reporting into behavioral patte
 ## Dashboard Screenshots
 
 ### Executive Dashboard
-![Executive Dashboard](AdventureWorks Images/executive_dashboard.png)
+![Executive Dashboard](AdventureWorks_Images/executive_dashboard.png)
 
 ### Geographic Analysis
-![Map Analysis](AdventureWorks Images/map_analysis.png)
+![Map Analysis](AdventureWorks_Images/map_analysis.png)
 
 ### Product Drillthrough
-![Product Details](AdventureWorks Images/product_details.png)
+![Product Details](AdventureWorks_Images/product_details.png)
 
 ### Customer Segmentation
-![Customer Details](AdventureWorks Images/customer_details.png)
+![Customer Details](AdventureWorks_Images/customer_details.png)
 
 ### Data Model
-![Data Model](AdventureWorks Images/data_model.png)
+![Data Model](AdventureWorks_Images/data_model.png)
 
 ---
 
